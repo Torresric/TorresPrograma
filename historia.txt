@@ -12,3 +12,4 @@ Este es el primer cambio creado desde internet
 Vamos a ver como lo podemos mandar
 
 Esto ha sido creado en lo local a ver si aparece en lo online
+desde el ultimo intento por crear bien una base de datos
