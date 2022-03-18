@@ -18,3 +18,5 @@ Se pudo crear poniendo origin que es el nombre del
 github para poder subirlo a a nube
 
 Ahora que ya lo he creado, puedo comenzar a compartir las cosas que haga en lo local
+
+Esto es despues de haber agregado la llave 
